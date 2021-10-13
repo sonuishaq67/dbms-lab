@@ -19,12 +19,12 @@
 ## What is NoSQL? (Characteristics and Properties)
 ### NoSQL databases deemphasize the principles of ACID (atomicity, consistency, isolation, and durability). In addition, the process of normalization is not mandatory in NoSQL. Because of the size and speed of modern data, you shoud de-normalize NoSQL databases.
 
-# They have higher scalability.
-# They use distributed computing.
-# They are cost effective.
-# They support flexible schema.
-# They can process both unstructured and semi-structured data.
-# There are no complex relationships, such as the ones between tables in an RDBMS.
+### They have higher scalability.
+### They use distributed computing.
+### They are cost effective.
+### They support flexible schema.
+### They can process both unstructured and semi-structured data.
+### There are no complex relationships, such as the ones between tables in an RDBMS.
 
 
 ## List different RDBMS Software (At least 5)
